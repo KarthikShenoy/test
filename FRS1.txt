@@ -1,3 +1,4 @@
+THis is a fix 2 file
 This is the file added by a remote user. This will be added easily and managed by the end user.
 This line is added on the local server and not on the remote server. THis will be pusehd and merged
 THis is new line added. We want to simulate an error in ways like the files in the main and the local are changed togther
